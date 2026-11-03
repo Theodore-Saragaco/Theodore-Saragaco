@@ -1,16 +1,27 @@
-## Hi there 👋
+##👋 Salut, moi c'est [Théodore Saragaco] !
 
-<!--
-**Theodore-Saragaco/Theodore-Saragaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant en BTS CIEL (Cybersécurité, Informatique et réseaux, Électronique).
 
-Here are some ideas to get you started:
+💻 Passionné par l'informatique, les nouvelles technologies, les réseaux et la cybersécurité, je développe actuellement mes compétences à travers mes études et différents projets personnels.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+.🧰 Compétences et technologies
+Réseaux : TCP/IP, adressage IP, configuration réseau.
+Systèmes : Linux, Windows.
+Programmation : Python, C++, HTML.
+Cybersécurité : notions de sécurité informatique et bonnes pratiques.
+Outils : Git, GitHub, Visual Studio Code.
+
+📂 Mes projets
+Tu retrouveras ici mes projets réalisés dans le cadre de mes études, mes expérimentations personnelles et mes travaux autour de l'informatique, des réseaux et de la cybersécurité.
+
+🎯 Mes objectifs
+Approfondir mes connaissances en cybersécurité.
+Développer mes compétences en programmation.
+Maîtriser l'administration des systèmes et réseaux.
+Réaliser des projets concrets et enrichissants.
+Continuer à apprendre et évoluer dans le domaine informatique.
+📫 Me contacter
+GitHub : @Theodore-Saragaco
+Discord : merguez3433
+
+⭐ Merci de visiter mon profil GitHub ! N'hésite pas à découvrir mes projets.
