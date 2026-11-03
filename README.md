@@ -49,7 +49,3 @@
 
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1500&color=00D9FF&center=true&vCenter=true&width=500&lines=Every+expert+was+once+a+beginner.;Keep+learning.+Keep+building.+%E2%9C%A8" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003B60,100:050A18&height=100&section=footer" />
