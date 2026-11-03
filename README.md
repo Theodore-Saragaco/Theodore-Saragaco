@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=THEODORE&fontSize=85&fontColor=00D9FF&fontAlignY=55&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=130&text=THEODORE&fontSize=70&fontColor=00D9FF&fontAlignY=55&animation=fadeIn" />
 
 💻 ✨ 🚀
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;BTS+CIEL+Student+%F0%9F%8E%93;Learning+%7C+Building+%7C+Improving+%F0%9F%9A%80" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050A18,100:003B60&height=3" />
 
 </div>
 
