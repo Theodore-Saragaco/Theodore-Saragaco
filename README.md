@@ -36,15 +36,15 @@ me.say_hi()
 
 💻 Programming
 
-<img src="https://skillicons.dev/icons?i=python,c,html,css,js" />
+<img src="https://skillicons.dev/icons?i=python,c++,html,js" />
 
 🖥️ Systems & Tools
 
-<img src="https://skillicons.dev/icons?i=linux,windows,bash,vscode,git,github" />
+<img src="https://skillicons.dev/icons?i=linux,windows,vscode,git,github" />
 
 🌐 Networking & Cybersecurity
 
-<img src="https://skillicons.dev/icons?i=debian,kali,docker,arduino" />
+<img src="https://skillicons.dev/icons?i=debian,arduino" />
 
 </div>
 
