@@ -16,23 +16,13 @@
 
 🚀 J'aime apprendre, expérimenter et créer de nouveaux projets.
 
-📚 Actuellement en train de développer mes connaissances et mes compétences.
+📚 Toujours motivé pour développer mes compétences.
 
 ⚙️ My Skills
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,html,css,linux,vscode,git&theme=dark" />
-
-</div>
-
-📈 GitHub Analytics
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&hide_border=true&bg_color=050A18&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&rank_icon=github" />
-
-<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&hide_border=true&bg_color=050A18&title_color=00D9FF&text_color=FFFFFF" />
 
 </div>
 
@@ -50,6 +40,13 @@
 </a>
 
 <br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1500&color=00D9FF&center=true&vCenter=true&width=500&lines=Every+expert+was+once+a+beginner.;Keep+learning.+Keep+building.+%E2%9C%A8" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003B60,100:050A18&height=100&section=footer" />
+
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1500&color=00D9FF&center=true&vCenter=true&width=500&lines=Every+expert+was+once+a+beginner.;Keep+learning.+Keep+building.+%E2%9C%A8" />
 
