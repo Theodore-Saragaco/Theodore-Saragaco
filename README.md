@@ -1,27 +1,96 @@
-##👋 Salut, moi c'est [Théodore Saragaco] !
+🖥️ SYSTEM ONLINE — WELCOME TO MY PROFILE
 
-🎓 Étudiant en BTS CIEL (Cybersécurité, Informatique et réseaux, Électronique).
+<div align="center">
 
-💻 Passionné par l'informatique, les nouvelles technologies, les réseaux et la cybersécurité, je développe actuellement mes compétences à travers mes études et différents projets personnels.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hello%2C+World!+%F0%9F%91%8B;BTS+CIEL+Student;Future+Cybersecurity+Engineer+%F0%9F%94%90;Networking+%7C+Linux+%7C+Programming;Always+Learning+%F0%9F%9A%80" />
 
-.🧰 Compétences et technologies
-Réseaux : TCP/IP, adressage IP, configuration réseau.
-Systèmes : Linux, Windows.
-Programmation : Python, C++, HTML.
-Cybersécurité : notions de sécurité informatique et bonnes pratiques.
-Outils : Git, GitHub, Visual Studio Code.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003B46,100:00F7FF&height=180&section=header&text=DEVELOPER%20MODE&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-📂 Mes projets
-Tu retrouveras ici mes projets réalisés dans le cadre de mes études, mes expérimentations personnelles et mes travaux autour de l'informatique, des réseaux et de la cybersécurité.
+</div>
 
-🎯 Mes objectifs
-Approfondir mes connaissances en cybersécurité.
-Développer mes compétences en programmation.
-Maîtriser l'administration des systèmes et réseaux.
-Réaliser des projets concrets et enrichissants.
-Continuer à apprendre et évoluer dans le domaine informatique.
-📫 Me contacter
-GitHub : @Theodore-Saragaco
-Discord : merguez3433
+👨‍💻 WHO AM I?
+python
+class Developer:
+    def __init__(self):
+        self.name = "YOUR NAME"
+        self.education = "BTS CIEL"
+        self.speciality = "IT & Networks"
+        self.interests = [
+            "Cybersecurity",
+            "Networking",
+            "Linux",
+            "Programming",
+            "Technology"
+        ]
+        self.status = "Always learning 🚀"
 
-⭐ Merci de visiter mon profil GitHub ! N'hésite pas à découvrir mes projets.
+    def say_hi(self):
+        print("Welcome to my GitHub profile!")
+
+me = Developer()
+me.say_hi()
+
+⚡ TECH STACK
+
+<div align="center">
+
+💻 Programming
+
+<img src="https://skillicons.dev/icons?i=python,c,html,css,js" />
+
+🖥️ Systems & Tools
+
+<img src="https://skillicons.dev/icons?i=linux,windows,bash,vscode,git,github" />
+
+🌐 Networking & Cybersecurity
+
+<img src="https://skillicons.dev/icons?i=debian,kali,docker,arduino" />
+
+</div>
+
+📊 GITHUB STATISTICS
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" />
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+
+</div>
+
+🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+🎯 CURRENT OBJECTIVES
+bash
+[+] Mastering Linux
+[+] Learning Python & C
+[+] Understanding TCP/IP
+[+] Exploring Cybersecurity
+[+] Building personal projects
+[ ] Becoming a cybersecurity expert
+
+📡 CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+</a>
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Learning+never+stops...;Building+the+future+one+line+at+a+time.;Thanks+for+visiting+my+profile+%F0%9F%9A%80" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:003B46,100:000000&height=100&section=footer"/>
+
+</div>
