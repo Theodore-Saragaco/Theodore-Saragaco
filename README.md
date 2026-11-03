@@ -1,38 +1,58 @@
-👋 Salut, bienvenue sur mon GitHub !
+👨‍💻 Hello, World!
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Etudiant+en+BTS+CIEL+%F0%9F%92%BB;Passionn%C3%A9+par+l'informatique+%F0%9F%9A%80;Toujours+en+apprentissage+%F0%9F%93%9A" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;BTS+CIEL+Student+%F0%9F%8E%93;Learning+%7C+Building+%7C+Improving+%F0%9F%9A%80" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050A18,100:003B60&height=3" />
 
 </div>
 
-🧑‍💻 À propos de moi
+🧑‍💻 About Me
+
 🎓 Étudiant en BTS CIEL
-💻 Passionné par l'informatique
-🚀 J'aime découvrir et apprendre de nouvelles choses
-🔧 Je réalise des projets dans le cadre de mes études
-🛠️ Mes technologies
 
-<!-- Garde uniquement les technologies que tu utilises réellement -->
+💻 Passionné par l'informatique et les nouvelles technologies.
 
-<img src="https://skillicons.dev/icons?i=python,html,css,linux,vscode,git" />
+🚀 J'aime apprendre, expérimenter et créer de nouveaux projets.
 
-📊 Mon GitHub
+📚 Actuellement en train de développer mes connaissances et mes compétences.
+
+⚙️ My Skills
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=python,html,css,linux,vscode,git&theme=dark" />
 
 </div>
 
-🎯 Mon objectif
-
-Continuer à progresser en informatique, développer mes compétences et réaliser de nouveaux projets.
+📈 GitHub Analytics
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=00F7FF&center=true&vCenter=true&width=400&lines=Merci+d'avoir+visit%C3%A9+mon+profil+!+%E2%AD%90" />
+<img width="95%" src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&hide_border=true&bg_color=050A18&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&rank_icon=github" />
+
+<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&hide_border=true&bg_color=050A18&title_color=00D9FF&text_color=FFFFFF" />
 
 </div>
+
+🎯 My Goals
+📚 Continuer à apprendre et progresser.
+💻 Réaliser des projets personnels.
+⚡ Découvrir de nouvelles technologies.
+🚀 Développer mon expérience en informatique.
+🌐 Find Me
+
+<div align="center">
+
+<a href="https://github.com/TON_PSEUDO">
+<img src="https://img.shields.io/badge/GitHub-My%20Profile-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=050A18" />
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1500&color=00D9FF&center=true&vCenter=true&width=500&lines=Every+expert+was+once+a+beginner.;Keep+learning.+Keep+building.+%E2%9C%A8" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003B60,100:050A18&height=100&section=footer" />
